@@ -1,0 +1,7 @@
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Study\6th sem\.NET\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

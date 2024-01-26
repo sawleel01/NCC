@@ -1,0 +1,7 @@
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\bin\Debug\2DArraySum_14(26823).exe.config
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\bin\Debug\2DArraySum_14(26823).exe
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\bin\Debug\2DArraySum_14(26823).pdb
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\obj\Debug\2DArraySum_14(26823).csproj.AssemblyReference.cache
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\obj\Debug\2DArraySum_14(26823).csproj.CoreCompileInputs.cache
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\obj\Debug\2DArraySum_14(26823).exe
+D:\Study\6th sem\.NET\2DArraySum_14(26823)\2DArraySum_14(26823)\obj\Debug\2DArraySum_14(26823).pdb
